@@ -31,5 +31,5 @@
 * GridSearch
 * K-Fold
 
-### Bonus 
-<a href = "https://data.library.virginia.edu/is-r-squared-useless/"> R Squared vs MSE </a>
+### References 
+* <a href = "https://data.library.virginia.edu/is-r-squared-useless/"> R Squared vs MSE </a>
