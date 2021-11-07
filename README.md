@@ -12,7 +12,7 @@
 * Ridge Regression
 * Lasso Regression
 * Logistic Regression 
-* K-Nearest Neighbors
+* <a href = "https://colab.research.google.com/drive/1H4mcgtgLerJ71qLtMeZ-ceZBEU5xHRyt?usp=sharing"> K-Nearest Neighbors </a>
 * Decision Tree
 * Naive Bayes 
 * SVM
