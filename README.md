@@ -13,7 +13,7 @@
 * Lasso Regression
 * Logistic Regression 
 * <a href = "https://colab.research.google.com/drive/1H4mcgtgLerJ71qLtMeZ-ceZBEU5xHRyt?usp=sharing"> K-Nearest Neighbors (colab) </a>
-  * <a href="https://adotg.github.io/knn-what-how-why/">Interactive Demo</a> (https://github.com/adotg/knn-what-how-why) 
+  * <a href="https://adotg.github.io/knn-what-how-why/">Interactive Demo</a>
 * Decision Tree
 * Naive Bayes 
 * Support Vector Machine (SVM)
