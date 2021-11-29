@@ -16,11 +16,15 @@
   * <a href="https://adotg.github.io/knn-what-how-why/">Interactive Demo</a> (https://github.com/adotg/knn-what-how-why) 
 * Decision Tree
 * Naive Bayes 
-* SVM
+* Support Vector Machine (SVM)
 
 #### Ensemble
-* Voting (Random Forest)
-* Boosting (AdaBoost, XGBoost)
+* Voting 
+  * Random Forest
+* Boosting 
+  * AdaBoost
+  * Gradient Boosting (GBM)
+  * XGBoost
 * Stacking
 
 ### Unsupervised Learning
