@@ -1,9 +1,10 @@
 ## Machine-Learning
 
 ### Data Preprocessing
+* Data Cleaning (Missing Data)
 * Feature Encoding (Label Encoding, One-Hot-Encoding)
-* Feature Scaling (Normalization, Standardization)
 * Train, Validation and Test Data
+* Feature Scaling (Normalization, Standardization)
 
 ### Supervised Learning
 * <a href = "https://colab.research.google.com/drive/1sJa-yaL31YUF6SrYZ2CnMUT675mSx9gN?usp=sharing" onclick="return ! window.open(this.href);"> Simple Linear Regression (colab) </a> 
