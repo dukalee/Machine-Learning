@@ -7,8 +7,8 @@
 * Feature Scaling (Normalization, Standardization)
 
 ### Supervised Learning
-* <a href = "https://colab.research.google.com/drive/1sJa-yaL31YUF6SrYZ2CnMUT675mSx9gN?usp=sharing" onclick="return ! window.open(this.href);"> Simple Linear Regression (colab) </a> 
-* <a href = "https://colab.research.google.com/drive/1KnlRilD7HBvhVsaS8BeYhaGjEpQoghkH?usp=sharing" onclick="return ! window.open(this.href);"> Multiple Linear Regression (colab) </a> 
+* Simple Linear Regression [![Open In Colab](https://colab.research.google.com/drive/1sJa-yaL31YUF6SrYZ2CnMUT675mSx9gN?usp=sharing)
+* Multiple Linear Regression [![Open In Colab] (https://colab.research.google.com/drive/1KnlRilD7HBvhVsaS8BeYhaGjEpQoghkH?usp=sharing)
 * Polynomial Regression 
 * Ridge Regression
 * Lasso Regression
