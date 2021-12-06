@@ -1,7 +1,7 @@
 ## Machine-Learning
 
 ### Data Preprocessing
-* Data Cleaning (Missing Data)
+* Data Cleaning
 * Feature Encoding (Label Encoding, One-Hot-Encoding)
 * Train, Validation and Test Data
 * Feature Scaling (Normalization, Standardization)
