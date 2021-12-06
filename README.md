@@ -7,13 +7,16 @@
 * Feature Scaling (Normalization, Standardization)
 
 ### Supervised Learning
-* Simple Linear Regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sJa-yaL31YUF6SrYZ2CnMUT675mSx9gN?usp=sharing)
-* Multiple Linear Regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KnlRilD7HBvhVsaS8BeYhaGjEpQoghkH?usp=sharing)
+* Simple Linear Regression 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sJa-yaL31YUF6SrYZ2CnMUT675mSx9gN?usp=sharing)
+* Multiple Linear Regression 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KnlRilD7HBvhVsaS8BeYhaGjEpQoghkH?usp=sharing)
 * Polynomial Regression 
 * Ridge Regression
 * Lasso Regression
 * Logistic Regression 
-* <a href = "https://colab.research.google.com/drive/1H4mcgtgLerJ71qLtMeZ-ceZBEU5xHRyt?usp=sharing"> K-Nearest Neighbors (colab) </a>
+* K-Nearest Neighbors 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H4mcgtgLerJ71qLtMeZ-ceZBEU5xHRyt?usp=sharing)
   * <a href="https://adotg.github.io/knn-what-how-why/">Interactive Demo</a>
 * Decision Tree
 * Naive Bayes 
