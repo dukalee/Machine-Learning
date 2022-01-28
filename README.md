@@ -17,7 +17,6 @@
 * Logistic Regression 
 * K-Nearest Neighbors 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H4mcgtgLerJ71qLtMeZ-ceZBEU5xHRyt?usp=sharing)
-  * <a href="https://adotg.github.io/knn-what-how-why/">Interactive Demo</a>
 * Decision Tree
 * Naive Bayes 
 * Support Vector Machine (SVM)
