@@ -2,7 +2,8 @@
 
 ### Data Preprocessing
 * Data Cleaning
-  * Imputation
+  * Imputation(Missing values)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/148uW2r1aWxJfkeke3DLZy4i4D5xjR1U7?usp=sharing)
   * Outliers
 * Feature Encoding 
   * Label Encoding
