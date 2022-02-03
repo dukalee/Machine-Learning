@@ -2,11 +2,11 @@
 
 ### Data Preprocessing
 * Data Cleaning
- * Imputation
- * Outliers
+  * Imputation
+  * Outliers
 * Feature Encoding 
- * Label Encoding
- * One-Hot Encoding
+  * Label Encoding
+  * One-Hot Encoding
 * Train set and Test set
 * Feature Scaling
 
