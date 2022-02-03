@@ -2,9 +2,13 @@
 
 ### Data Preprocessing
 * Data Cleaning
-* Feature Encoding (Label Encoding, One-Hot-Encoding)
-* Train, Validation and Test Data
-* Feature Scaling (Normalization, Standardization)
+ * Imputation
+ * Outliers
+* Feature Encoding 
+ * Label Encoding
+ * One-Hot Encoding
+* Train set and Test set
+* Feature Scaling
 
 ### Supervised Learning
 * Simple Linear Regression 
